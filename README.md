@@ -1,0 +1,2 @@
+# Web-Browser
+We developed a web browser based on JavaFx .Our  motto involved the development of a novel method that deals with application layer of networking on the client side. We developed a full fetched web browser which user can use to access any domain. It support features like fast processing of user queries, history tab, bookmark tab, incognito mode, fluid animation, theme center with over 100 entries.
